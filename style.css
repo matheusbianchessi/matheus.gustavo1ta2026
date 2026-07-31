@@ -1,37 +1,51 @@
 body {
-        background-color: #F6F1E7;
-            color: #4A403A;
-                font-family: 'Times New Roman', serif;
-                }
+        background-color: #F4E9D8;
+            color: #4A3428;
+                font-family: "Trebuchet MS", Arial, sans-serif;
+                    margin: 0;
+                        padding: 0;
+                        }
 
-                header {
-                    text-align: center;
-                        border-bottom:
-                            3px double #8AA88A;
-                            }
-
-                            nav {
-                                text-align: center;
-                                    border-bottom:
-                                        1px solid #A8BFA2;
-                                            padding: 5px;
+                        header {
+                            background-color: #7B4A2E;
+                                color: #FFF8EE;
+                                    text-align: center;
+                                        padding: 30px;
+                                            border-bottom: 5px solid #A66B3D;
                                             }
 
-                                            main {
-                                                max-width:
-                                                    600px;
-                                                        margin:
-                                                            auto;
-                                                                line-height:
-                                                                    1.6;
-                                                                    }
+                                            nav {
+                                                background-color: #D9C2A3;
+                                                    text-align: center;
+                                                        padding: 15px;
+                                                        }
 
-                                                                    footer {
-                                                                        font-style:
-                                                                            italic;
-                                                                                border-top:
-                                                                                    1px solid #8AA88A;
-                                                                                        margin-top:
-                                                                                            30px;
-                                                                                            }
+                                                        nav a {
+                                                            color: #4A3428;
+                                                                text-decoration: none;
+                                                                    margin: 0 15px;
+                                                                        font-weight: bold;
+                                                                        }
+
+                                                                        nav a:hover {
+                                                                            color: #A66B3D;
+                                                                            }
+
+                                                                            main {
+                                                                                max-width: 900px;
+                                                                                    margin: 30px auto;
+                                                                                        padding: 25px;
+                                                                                            background-color: #FFF8EE;
+                                                                                                border-radius: 15px;
+                                                                                                    box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+                                                                                                        line-height: 1.7;
+                                                                                                        }
+
+                                                                                                        footer {
+                                                                                                            background-color: #7B4A2E;
+                                                                                                                color: white;
+                                                                                                                    text-align: center;
+                                                                                                                        padding: 18px;
+                                                                                                                            margin-top: 40px;
+                                                                                                                            }
 }
