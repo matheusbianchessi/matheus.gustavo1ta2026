@@ -1,17 +1,17 @@
 body {
-        background-color: #f4ecd8;
-            color: #1a1a1a;
+        background-color: #F4E7D3;
+            color: #5A3E2B;
                 font-family: 'Times New Roman', serif;
                 }
 
                 header {
                     text-align: center;
-                        border-bottom: 3px double #000;
+                        border-bottom: 3px double #8B5A3C;
                         }
 
                         nav {
                             text-align: center;
-                                border-bottom: 1px solid #000;
+                                border-bottom: 1px solid #B8865B;
                                     padding: 5px;
                                     }
 
@@ -23,7 +23,7 @@ body {
 
                                                 footer {
                                                     font-style: italic;
-                                                        border-top: 1px solid #000;
+                                                        border-top: 1px solid #8B5A3C;
                                                             margin-top: 30px;
                                                             }
 }
