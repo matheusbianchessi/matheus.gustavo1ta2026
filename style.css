@@ -1,29 +1,37 @@
 body {
-        background-color: red;
-            color: #5A3E2B;
+        background-color: #F6F1E7;
+            color: #4A403A;
                 font-family: 'Times New Roman', serif;
                 }
 
                 header {
                     text-align: center;
-                        border-bottom: 3px double #8B5A3C;
-                        }
+                        border-bottom:
+                            3px double #8AA88A;
+                            }
 
-                        nav {
-                            text-align: center;
-                                border-bottom: 1px solid #B8865B;
-                                    padding: 5px;
-                                    }
+                            nav {
+                                text-align: center;
+                                    border-bottom:
+                                        1px solid #A8BFA2;
+                                            padding: 5px;
+                                            }
 
-                                    main {
-                                        max-width: 600px;
-                                            margin: auto;
-                                                line-height: 1.6;
-                                                }
+                                            main {
+                                                max-width:
+                                                    600px;
+                                                        margin:
+                                                            auto;
+                                                                line-height:
+                                                                    1.6;
+                                                                    }
 
-                                                footer {
-                                                    font-style: italic;
-                                                        border-top: 1px solid #8B5A3C;
-                                                            margin-top: 30px;
-                                                            }
+                                                                    footer {
+                                                                        font-style:
+                                                                            italic;
+                                                                                border-top:
+                                                                                    1px solid #8AA88A;
+                                                                                        margin-top:
+                                                                                            30px;
+                                                                                            }
 }
