@@ -1,35 +1,35 @@
 body {
-        background-color: #F8F5F0;
-            color: #3D4A40;
+        background-color: #f4e9d8;
+            color: #4a3428;
                 font-family: Georgia, "Times New Roman", serif;
                     margin: 0;
                         padding: 0;
                         }
 
                         header {
-                            background-color: #A8C3A1;
-                                color: white;
+                            background-color: #7B4A2E;
+                                color: beige;
                                     text-align: center;
                                         padding: 25px;
-                                            border-bottom: 4px solid #7E9F76;
+                                            border-bottom: 4px solid #A66B3D;
                                             }
 
                                             nav {
-                                                background-color: #E6EFE4;
+                                                background-color: #D9C2A3;
                                                     text-align: center;
                                                         padding: 12px;
                                                             border-bottom: 1px solid #C7D8C3;
                                                             }
 
                                                             nav a {
-                                                                color: #3D4A40;
+                                                                color: #4a3428;
                                                                     text-decoration: none;
                                                                         margin: 0 12px;
                                                                             font-weight: bold;
                                                                             }
 
                                                                             nav a:hover {
-                                                                                color: #7E9F76;
+                                                                                color: #a66b3d;
                                                                                 }
 
                                                                                 main {
@@ -37,14 +37,14 @@ body {
                                                                                         margin: 30px auto;
                                                                                             padding: 20px;
                                                                                                 line-height: 1.8;
-                                                                                                    background: white;
+                                                                                                    background: #fff8ee;
                                                                                                         border-radius: 12px;
                                                                                                             box-shadow: 0 4px 12px rgba(0,0,0,0.08);
                                                                                                             }
 
                                                                                                             footer {
                                                                                                                 text-align: center;
-                                                                                                                    background-color: #A8C3A1;
+                                                                                                                    background-color: #7b4a2e;
                                                                                                                         color: white;
                                                                                                                             padding: 15px;
                                                                                                                                 margin-top: 30px;
